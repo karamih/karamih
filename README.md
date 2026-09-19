@@ -5,11 +5,8 @@
 
 - 🔭 I’m currently working on **my own ideas**
 
-- 🌱 I’m currently learning **Django & Flutter**
-
 - 📫 How to reach me **karamihossein.ai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1JkLACVl5hjC5bqELLV3wZDkUJwuGYJwl](https://drive.google.com/drive/u/0/folders/1JkLACVl5hjC5bqELLV3wZDkUJwuGYJwl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
